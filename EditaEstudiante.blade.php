@@ -59,7 +59,7 @@
                                 placeholder="Ingresa tu nombre"
                                 value="{{$estudiante->Nombre}}">
 
-                            <!--<label for="exampleInputNombre1" class="form-label
+                            <!-- <label for="exampleInputNombre1" class="form-label
                             font-weight-bold">Email</label> <input type="text" name = "Email"
                             class="form-control bg-dark-x border-0" placeholder="Ingresa tu email" value="
                             -"<"-?php echo e(old('')); ?>" aria-describedby="emailHelp"> -->
